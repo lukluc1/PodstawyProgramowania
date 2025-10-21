@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f11f434-072f-45c3-b9bb-d6a64e0806cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/wyjscie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operaory_logiczne_i_arytmetyczne.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +27,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="33VQG9zTIlSwms9Pk8WFGAJ4ni2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.operaory_logiczne_i_arytmetyczne.executor": "Run",
     "Python.testowy.executor": "Run",
     "Python.wejscie_i_wyjscie.executor": "Run",
     "Python.wyjscie.executor": "Run",
