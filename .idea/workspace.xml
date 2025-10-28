@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f11f434-072f-45c3-b9bb-d6a64e0806cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/instrukcje_warunkowe_zadania.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instrukcje_warunkowe_zadania.py" beforeDir="false" afterPath="$PROJECT_DIR$/instrukcje_warunkowe_zadania.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.instrukcje_warunkowe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.instrukcje_warunkowe_zadania.executor&quot;: &quot;Run&quot;,
     &quot;Python.operaory_logiczne_i_arytmetyczne.executor&quot;: &quot;Run&quot;,
     &quot;Python.testowy.executor&quot;: &quot;Run&quot;,
     &quot;Python.wejscie_i_wyjscie.executor&quot;: &quot;Run&quot;,
