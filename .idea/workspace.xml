@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f11f434-072f-45c3-b9bb-d6a64e0806cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/67.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zmienne typu string.py" beforeDir="false" afterPath="$PROJECT_DIR$/zmienne typu string.py" afterDir="false" />
     </list>
@@ -34,22 +35,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.instrukcje_warunkowe.executor&quot;: &quot;Run&quot;,
-    &quot;Python.instrukcje_warunkowe_zadania.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operaory_logiczne_i_arytmetyczne.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testowy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.wejscie_i_wyjscie.executor&quot;: &quot;Run&quot;,
-    &quot;Python.wyjscie.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zmienne typu string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zmienne.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.67.executor": "Run",
+    "Python.instrukcje_warunkowe.executor": "Run",
+    "Python.instrukcje_warunkowe_zadania.executor": "Run",
+    "Python.operaory_logiczne_i_arytmetyczne.executor": "Run",
+    "Python.testowy.executor": "Run",
+    "Python.wejscie_i_wyjscie.executor": "Run",
+    "Python.wyjscie.executor": "Run",
+    "Python.zmienne typu string.executor": "Run",
+    "Python.zmienne.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
