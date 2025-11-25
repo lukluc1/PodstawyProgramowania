@@ -9,6 +9,7 @@ e = float(input('Podaj liczbe'))
 suma = (a + b + c + d + e)
 
 print(suma)'''
+from glob import translate
 
 '''liczba = 0
 suma = 0
