@@ -1,3 +1,5 @@
+from math import inf
+#inf - bardzo duza liczba
 #zadanie 15
 '''X = list(range(0, 103, 3))
 
@@ -41,6 +43,34 @@ lista3 = list(range(13, 131, 13))
 #zadanie 17
 n = int(input('Podaj ile bedzie liczb'))
 suma = 0
+'''max_liczba = -inf #minus nieskonczonos
+min_liczba = inf #plus nieskonczonosc
+ile_mniej_3 = 0
+ile_przedzial = 0
+
 for x in range(n):
     liczba = int(input('Podaj liczbe'))
     suma = suma + liczba
+    if liczba > max_liczba:
+        max_liczba = liczba
+    if liczba < min_liczba:
+        min_liczba = liczba
+    if liczba < 3:
+        ile_mniej_3 = ile_mniej_3 + 1
+    if liczba > -2 and liczba <= 11:
+        ile_przedzial = ile_przedzial + 1
+
+print(suma)
+print(suma / n)
+print(max_liczba)
+print(min_liczba)
+print(ile_mniej_3)
+print(ile_przedzial)'''
+lista = []
+for x in range(n):
+    liczba = int(input('Podaj liczbe'))
+    lista.append(liczba)
+print(sum(lista))
+print(sum(lista) / n)
+print(max(lista))
+print(min(lista))
