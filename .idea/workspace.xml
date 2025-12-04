@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f11f434-072f-45c3-b9bb-d6a64e0806cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/omowienie_kartkowki_petle_for_cz1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listy_i_petle.py" beforeDir="false" afterPath="$PROJECT_DIR$/listy_i_petle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/petla_for_zadania.py" beforeDir="false" afterPath="$PROJECT_DIR$/petla_for_zadania.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
