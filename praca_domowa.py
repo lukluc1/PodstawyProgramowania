@@ -1,5 +1,6 @@
+'''Praca domowa'''
 #zad 3
-#Program wypisze ile dzielnikow ma liczba n
+#Program zsumuje wszystkie nieparzyste liczby od 20 w dol
 
 #zad 4
 i = 10
