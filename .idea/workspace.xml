@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f11f434-072f-45c3-b9bb-d6a64e0806cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/petla_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omowienie_kartkowki_petle_for_cz2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,11 +42,13 @@
     "Python.instrukcje_warunkowe_zadania.executor": "Run",
     "Python.listy_i_petle.executor": "Run",
     "Python.omowienie_kartkowki_petle_for_cz1.executor": "Run",
+    "Python.omowienie_kartkowki_petle_for_cz2.executor": "Run",
     "Python.operaory_logiczne_i_arytmetyczne.executor": "Run",
     "Python.petla_for_zadania.executor": "Run",
     "Python.petla_while.executor": "Run",
     "Python.petle_powtorzenie.executor": "Run",
     "Python.petle_zagniezdzone.executor": "Run",
+    "Python.praca_domowa.executor": "Run",
     "Python.testowy.executor": "Run",
     "Python.wejscie_i_wyjscie.executor": "Run",
     "Python.wyjscie.executor": "Run",
