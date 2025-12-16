@@ -52,7 +52,7 @@ if wynik1 > wynik2:
 else:
     print('wygrala druzyna 2')'''
 #zad 6 random
-from random import randint
+'''from random import randint
 from time import sleep
 wynik1 = 0
 wynik2 = 0
@@ -70,4 +70,27 @@ while not ((wynik1 >= 21 or wynik2 >= 21) and abs(wynik1 - wynik2) >= 2): #abs(x
 if wynik1 > wynik2:
     print('wygrala druzyna 1')
 else:
-    print('wygrala druzyna 2')
+    print('wygrala druzyna 2')'''
+
+#zad 7
+'''liczba = int(input('Podaj liczbe'))
+
+while liczba > 0:
+    cyfra = liczba % 10
+    liczba = liczba // 10
+    print(cyfra, end = '')'''
+
+#zad 8
+liczba = int(input('Podaj liczbe'))
+d = 2
+ile_czyn = 0
+ile_r_czyn = 0
+while liczba > 1:
+    if liczba % d == 0:
+        ile_r_czyn += 1
+    while liczba % d == 0:
+        liczba = liczba // d
+        ile_czyn += 1
+    d += 1
+print(ile_czyn)
+print(ile_r_czyn)
