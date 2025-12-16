@@ -4,7 +4,7 @@ wynik1 = 0
 wynik2 = 0
 wynik3 = 0
 akcja = 0
-while not ((wynik1 == 5 or wynik2 == 5 or wynik3 == 5) and abs(wynik1 - wynik2 or wynik3 - wynik2 or wynik3 - wynik1) >= 2): #abs(x) = |x|
+while not ((wynik1 >= 5 or wynik2 >= 5 or wynik3 >= 5) and abs(wynik1 - wynik2 or wynik3 - wynik2 or wynik3 - wynik1) >= 2): #abs(x) = |x|
     akcja += 1  # akcja = akcja + 1
     print(f'akcja {akcja}')
     druzyna = randint(1, 3)
