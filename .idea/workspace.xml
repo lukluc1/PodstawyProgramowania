@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f11f434-072f-45c3-b9bb-d6a64e0806cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/listy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listy_zadania.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listy_zadania_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listy_zadania_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/listy_zadania_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,34 +34,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.67.executor": "Run",
-    "Python.hazard.executor": "Run",
-    "Python.instrukcje_warunkowe.executor": "Run",
-    "Python.instrukcje_warunkowe_zadania.executor": "Run",
-    "Python.listy_i_petle.executor": "Run",
-    "Python.listy_zadania.executor": "Run",
-    "Python.listy_zadania_2.executor": "Run",
-    "Python.omowienie_kartkowki_petle_for_cz1.executor": "Run",
-    "Python.omowienie_kartkowki_petle_for_cz2.executor": "Run",
-    "Python.operaory_logiczne_i_arytmetyczne.executor": "Run",
-    "Python.petla_for_zadania.executor": "Run",
-    "Python.petla_while.executor": "Run",
-    "Python.petle_powtorzenie.executor": "Run",
-    "Python.petle_zagniezdzone.executor": "Run",
-    "Python.praca_domowa.executor": "Run",
-    "Python.testowy.executor": "Run",
-    "Python.wejscie_i_wyjscie.executor": "Run",
-    "Python.wyjscie.executor": "Run",
-    "Python.zmienne typu string.executor": "Run",
-    "Python.zmienne.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.67.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hazard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.instrukcje_warunkowe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.instrukcje_warunkowe_zadania.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listy_i_petle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listy_zadania.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listy_zadania_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.omowienie_kartkowki_petle_for_cz1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.omowienie_kartkowki_petle_for_cz2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.operaory_logiczne_i_arytmetyczne.executor&quot;: &quot;Run&quot;,
+    &quot;Python.petla_for_zadania.executor&quot;: &quot;Run&quot;,
+    &quot;Python.petla_while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.petle_powtorzenie.executor&quot;: &quot;Run&quot;,
+    &quot;Python.petle_zagniezdzone.executor&quot;: &quot;Run&quot;,
+    &quot;Python.praca_domowa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testowy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wejscie_i_wyjscie.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wyjscie.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zmienne typu string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zmienne.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
