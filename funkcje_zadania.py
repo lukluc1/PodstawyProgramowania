@@ -23,6 +23,9 @@ v = [-1, 0, 4]
 wynik = iloczyn_v(u, v)
 print(wynik)
 '''
+from listy_zadania_2 import wynik
+
+
 #zadanie 2.1
 def czy_anagramy(s1, s2):
     '''if sorted(s1) == sorted(s2):
@@ -48,3 +51,16 @@ def jaki_trojkat(a, b, c):
     else:
         print('to niejest trojkat')
 jaki_trojkat(10, 5, 12)
+
+#2.3
+def liczby_niezalezne(lista):
+    wynik = []
+    for e in lista:
+        dzielniki = []
+        for l in lista:
+            if e % l == 0:
+                dzielniki.append(l)
+        if len(dzielniki) == 1:
+            wynik.append(e)
+    return wynik
+print(liczby_niezalezne([12, 7, 3, 6, 21, 74]))
