@@ -40,7 +40,7 @@ print(sorted(s1) == sorted(s2))
 '''
 
 #2.2
-def jaki_trojkat(a, b, c):
+'''def jaki_trojkat(a, b, c):
     if a + b + c > 2 * max([a, b, c]) ** 2:
         if a ** 2 + b ** 2 + c ** 2 == 2 * max([a, b, c]) ** 2:
             print('prostokatny')
@@ -63,4 +63,22 @@ def liczby_niezalezne(lista):
         if len(dzielniki) == 1:
             wynik.append(e)
     return wynik
-print(liczby_niezalezne([12, 7, 3, 6, 21, 74]))
+print(liczby_niezalezne([12, 7, 3, 6, 21, 74]))'''
+2.8
+def ile_cyfr(liczba):
+    licznik = 0
+    while liczba > 0:
+        liczba = liczba // 10
+        licznik += 1
+    return licznik
+print(ile_cyfr(127))
+
+2.6
+def unikatowe_elementy(l1, l2):
+    zbior = set()
+    l = l1 + l2
+    for x in l:
+        if l.count(x) == 1:
+            zbior.add(x)
+    return zbior
+print(unikatowe_elementy((1, 2, 3, 4, 5, 6), (10, 1, 2, 3, 4, 7, 8)))
