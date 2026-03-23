@@ -199,3 +199,42 @@ print(suma)'''
 
 #4
 #petla jest nieskonczona poniewaz i to bedzie wikelokrotnosc 2 ktora nigdy nie jest rowna 5
+
+def f1(x, y):
+    return x * y
+def f2(f, a, b, n):
+    return f(a, b) * n
+print(f2(f1, 2, 3, 10))
+
+def f(x):
+    return 0.5 * x ** 2 - 3
+print(f(6))
+
+def Zw(f, d):
+    wynik = []
+    for x in d:
+        y =  f(x)
+        wynik.append(y)
+    return wynik
+x = [1, 2, 4, 5, 6]
+y = Zw(f, x)
+print(y)
+
+def ile_liter(n):
+    slownik = {}
+    for litera in n:
+        if litera in slownik:
+            slownik[litera] += 1
+        if not litera in slownik:
+            slownik[litera] = 1
+    return slownik
+print(ile_liter('babcia'))
+
+def ile_liter2(tekst):
+    slownik2 = {}
+    #zbior = set(tekst)
+    for x in tekst:
+        ile = tekst.count(x)
+        slownik2[x] = ile
+    return slownik2
+print(ile_liter2('babcia'))
