@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f11f434-072f-45c3-b9bb-d6a64e0806cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dane.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dane2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dane3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dane4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dane5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wczytywanie_danych_z_pliku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funkcja_lambda.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cwiczenia.py" beforeDir="false" afterPath="$PROJECT_DIR$/cwiczenia.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +39,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.67.executor": "Run",
     "Python.cwiczenia.executor": "Run",
+    "Python.funkcja_lambda.executor": "Run",
     "Python.funkcje.executor": "Run",
     "Python.funkcje_zadania.executor": "Run",
     "Python.hazard.executor": "Run",
