@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f11f434-072f-45c3-b9bb-d6a64e0806cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/funkcja_lambda_zadania.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spr_gr_A/liczby.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spr_gr_A/prostokaty.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spr_gr_A/prostokaty_przyklad.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spr_gr_A/przyklad.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spr_gr_A/slowa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spr_gr_A/slowa_przyklad.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/funkcja_lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/funkcja_lambda.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,9 +74,15 @@
     "Python.zmienne.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/0C gr 2/PycharmProjects/PythonProject/spr_gr_A"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\0C gr 2\PycharmProjects\PythonProject" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
