@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f11f434-072f-45c3-b9bb-d6a64e0806cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/spr_gr_b/bin.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spr_gr_b/bin_przyklad.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spr_gr_b/liczby.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spr_gr_b/przyklad.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spr_gr_b/ruch.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spr_gr_b/zad 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spr_gr_b/zad 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fizyka/sily.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fizyka/zad_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fizyka/zad_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +68,8 @@
     "Python.zad 2.executor": "Run",
     "Python.zad 3.executor": "Run",
     "Python.zad1.executor": "Run",
+    "Python.zad_1.executor": "Run",
+    "Python.zad_4.executor": "Run",
     "Python.zbiory.executor": "Run",
     "Python.zbiory_slowniki_zadania.executor": "Run",
     "Python.zmienne typu string.executor": "Run",
@@ -79,11 +77,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/0C gr 2/PycharmProjects/PythonProject/spr_gr_A"
+    "last_opened_file_path": "C:/Users/0C gr 2/PycharmProjects/PythonProject/fizyka",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\0C gr 2\PycharmProjects\PythonProject\fizyka" />
       <recent name="C:\Users\0C gr 2\PycharmProjects\PythonProject\spr_gr_A" />
       <recent name="C:\Users\0C gr 2\PycharmProjects\PythonProject" />
     </key>
